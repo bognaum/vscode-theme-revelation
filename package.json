@@ -1,0 +1,21 @@
+{
+    "name": "revelation-bn-edition",
+    "displayName": "Revelation BN edition",
+    "description": "The color theme from BN is based on Revelation TM theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Revelation BN edition",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Revelation BN edition-color-theme.json"
+            }
+        ]
+    }
+}
