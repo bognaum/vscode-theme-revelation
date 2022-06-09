@@ -443,7 +443,7 @@
 		"editor.background": "#2E2C2B",
 		"editorCursor.foreground": "#f8f8f0",
 		"editor.foreground": "#bEbEbE",
-		"editorWhitespace.foreground": "#3b3a32",
+		"editorWhitespace.foreground": "#5b5a52",
 		"editor.lineHighlightBackground": "#3B3633",
 		"editor.selectionBackground": "#393946",
 		
