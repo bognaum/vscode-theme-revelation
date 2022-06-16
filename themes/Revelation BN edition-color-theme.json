@@ -482,7 +482,7 @@
 		"keybindingLabel.border": "#555",
 		"keybindingLabel.bottomBorder": "#555",
 
-		"widget.shadow": "#666",
+		// "widget.shadow": "#666",
 		// "widget.shadow": "#333",
 
 		"tree.indentGuidesStroke": "#666",
@@ -495,6 +495,14 @@
 		"editorHoverWidget.border": "#999",
 		"input.background": "#222",
 		"input.border": "#666",
+		
+		"notificationToast.border": "#666",
+		
+		"notificationCenter.border": "#666",
+		"notifications.border": "#666",
+
+		"debugExceptionWidget.border": "#666",
+		"debugToolBar.border": "#666",
 	},
 	"name": "Revelation BN edition"
 }
