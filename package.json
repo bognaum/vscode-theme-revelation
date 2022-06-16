@@ -2,6 +2,7 @@
     "name": "revelation-bn-edition",
     "displayName": "Revelation BN edition",
     "description": "The color theme from BN is based on Revelation TM theme.",
+    "publisher": "Bognaum",
     "version": "0.0.1",
     "icon": "IMG/icon.jpg",
     "engines": {
