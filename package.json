@@ -3,7 +3,7 @@
     "displayName": "Revelation BN edition",
     "description": "The color theme from BN is based on Revelation TM theme.",
     "publisher": "Bognaum",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/bognaum/vscode-theme-revelation.git"

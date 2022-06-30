@@ -476,6 +476,8 @@
 
 		"debugExceptionWidget.border": "#666",
 		"debugToolBar.border": "#666",
+
+		"contrastBorder": "#444",
 	},
 	"name": "Revelation BN edition"
 }
